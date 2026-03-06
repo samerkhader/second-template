@@ -155,7 +155,7 @@ z-index: 1;
 /* End header */
 /* Start landing */
 .landing{
-    background-image: url(/images/mountain.jpg);
+    background-image: url(./images/mountain.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
@@ -430,4 +430,5 @@ margin-left:257px ;
     .footer span{
         color: var(--main-color);
     }
+
     /* End footer  */
